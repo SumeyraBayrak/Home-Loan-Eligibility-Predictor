@@ -37,6 +37,15 @@ Dream Housing Finance provides home loan services to its customers and aims to a
 
 ---
 
+### Model Implementations
+For this project, we explored multiple machine learning models. You can access the detailed implementations through the following links:
+
+- [Logistic Regression](notebooks/logistic_regression.ipynb)
+- [Decision Tree](notebooks/decision_tree.ipynb)
+- [Random Forest](notebooks/random_forest.ipynb)
+- [XGBoost](notebooks/xgboost.ipynb)
+
+---
 ### Contributions
 
 1. Univariate and bivariate analysis of loan features
