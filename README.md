@@ -65,7 +65,7 @@ Outliers and right skewness in the `LoanAmount` variable were identified. A **lo
 #### 4. Final Status
 All missing values were filled, and outliers were treated. The dataset was prepared to be more suitable for modeling.
 
-For more details on the steps taken and the procedures applied, you can access the notebook [here](notebook_link).
+For more details on the steps taken and the procedures applied, you can access the notebook [here](1-loan-status-prediction-eda-and-model-implementation.ipynb).
 
 ---
 
