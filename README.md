@@ -86,10 +86,10 @@ We evaluated the performance of the four models, and our analysis indicates that
 
 | Model               | Validation Score | Leaderboard Score |
 |---------------------|------------------|-------------------|
-| Logistic Regression | 0.80            | Slightly lower    |
-| Decision Tree       | 0.70            | Slightly lower    |
-| Random Forest       | 0.80            | Slightly lower    |
-| XGBoost             | 0.80            | Slightly lower    |
+| Logistic Regression | 0.80            | 0.84    |
+| Decision Tree       | 0.68            | 0.90    |
+| Random Forest       | 0.80            | 0.85    |
+| XGBoost             | 0.78            | 0.87    |
 
 **Logistic Regression** and **Random Forest** emerged as the top-performing models, making them the most reliable choices for predicting loan approval status.
 
