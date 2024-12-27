@@ -1,7 +1,4 @@
-![Loan Prediction Model](Home-Loan-Eligibility-Predictor/images/image_practice-problem-loan-prediction.png)
-
-
-
+![Loan Prediction Model](imajes/image_practice-problem-loan-prediction.png)
 
 # Loan Prediction Practice Problem Repository
 
@@ -82,6 +79,8 @@ For this project, we explored multiple machine learning models. You can access t
 - [XGBoost](#)
 
 ## Model Performance
+
+![Loan Prediction Model](imajes/image_practice-problem-loan-prediction.png)
 
 We evaluated the performance of the four models, and our analysis indicates that Logistic Regression and Random Forest performed the best in terms of validation scores and leaderboard scores.
 
