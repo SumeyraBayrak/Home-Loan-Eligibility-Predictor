@@ -76,7 +76,7 @@ For more details on the steps taken and the procedures applied, you can access t
 For this project, we explored multiple machine learning models. You can access the detailed implementations through the following links:
 
 - [Logistic Regression](2.1-logistic-regression.ipynb)
-- [Decision Tree](#)
+- [Decision Tree](2.2-decision-tree.ipynb)
 - [Random Forest](#)
 - [XGBoost](#)
 
