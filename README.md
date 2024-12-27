@@ -77,7 +77,7 @@ For this project, we explored multiple machine learning models. You can access t
 
 - [Logistic Regression](2.1-logistic-regression.ipynb)
 - [Decision Tree](2.2-decision-tree.ipynb)
-- [Random Forest](#)
+- [Random Forest](2.3-random-forest.ipynb)
 - [XGBoost](#)
 
 ## Model Performance
