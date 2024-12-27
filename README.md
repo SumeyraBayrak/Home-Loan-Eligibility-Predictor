@@ -1,3 +1,5 @@
+![Loan Prediction Model](images/image.png)
+
 # Loan Prediction Practice Problem Repository
 
 ### Introduction
