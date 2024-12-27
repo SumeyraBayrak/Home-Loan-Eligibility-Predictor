@@ -1,4 +1,7 @@
-![Loan Prediction Model](images/image.png)
+![Loan Prediction Model](Home-Loan-Eligibility-Predictor/images/image_practice-problem-loan-prediction.png)
+
+
+
 
 # Loan Prediction Practice Problem Repository
 
